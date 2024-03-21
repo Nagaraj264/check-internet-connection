@@ -1,5 +1,5 @@
 ### Check Internet Connection Status
-### hosted page ### https://nagaraj264.github.io/check-internet-connection/
+### hosted page  https://nagaraj264.github.io/check-internet-connection/
 
 
 This simple web application checks the internet connection status of the user and displays a popup message accordingly.
